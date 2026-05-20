@@ -184,9 +184,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-- **Developer**: Aditi 
-- **GitHub**: [github.com/aditiiprasad](https://github.com/Aasritha-sure)
-- **LinkedIn**: [linkedin.com/in/aditiiprasad](https://www.linkedin.com/in/aasritha-sure/)
+- **Developer**: Aasritha
+- **GitHub**: [github.com/Aasritha-sure](https://github.com/Aasritha-sure)
+- **LinkedIn**: [linkedin.com/in/aasritha-sure](https://www.linkedin.com/in/aasritha-sure/)
 
 
 
