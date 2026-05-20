@@ -101,6 +101,6 @@ st.markdown("""
 <div style="text-align: center; padding: 20px 0; font-size: 14px; color: #555;">
     Developed with ❤️ by <strong>Aasritha</strong> <br>
     <a href="https://github.com/Aasritha-sure" target="_blank" style="text-decoration: none; color: #128C7E; font-weight: 600;">GitHub</a> |
-    <a href="https://www.linkedin.com/in/aasritha-sure/" target="_blank" style="text-decoration: none; color: #128C7E; font-weight: 600;">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/aasritha-sure-2b9bb2324" target="_blank" style="text-decoration: none; color: #128C7E; font-weight: 600;">LinkedIn</a>
 </div>
 """, unsafe_allow_html=True)
