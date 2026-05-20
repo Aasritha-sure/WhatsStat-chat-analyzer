@@ -186,7 +186,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Developer**: Aasritha
 - **GitHub**: [github.com/Aasritha-sure](https://github.com/Aasritha-sure)
-- **LinkedIn**: [linkedin.com/in/aasritha-sure](https://www.linkedin.com/in/aasritha-sure/)
+- **LinkedIn**: [linkedin.com/in/aasritha-sure](https://www.linkedin.com/in/aasritha-sure-2b9bb2324)
 
 
 
