@@ -96,8 +96,8 @@ Make sure you have Python 3.7+ installed on your system.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Aasritha-sure/whatsstat.git
-   cd whatsstat
+   git clone https://github.com/Aasritha-sure/WhatsStat-chat-analyzer.git
+   cd WhatsStat-chat-analyzer
    ```
 
 2. **Install required packages**
